@@ -6,7 +6,17 @@ Welcome to the Space-X Website project! This is a static website inspired by the
 [View on GitHub Pages](https://virendrapratapsinghyadav.github.io/SPACE-X-website/)
 
 ## Project Structure
-<pre> ```plaintext SPACE-X-website/ ├── css/ │ └── style.css ├── img/ │ └── [image assets] ├── js/ │ └── script.js ├── index.html └── README.md ``` </pre>
+```plaintext
+SPACE-X-website/
+├── css/
+│   └── style.css
+├── img/
+│   └── [image assets]
+├── js/
+│   └── script.js
+├── index.html
+└── README.md
+
 
 ## Screenshots
 
